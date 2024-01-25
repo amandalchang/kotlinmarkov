@@ -27,14 +27,14 @@ word "I".
   very satisfying.
 
 
-3. **Are there things you were expecting to find that you haven’t?**
+2. **Are there things you were expecting to find that you haven’t?**
 
     I was surprised there wasn't a direct translation of the instanceof()
     function from Python, especially since Kotlin requires you to be a lot
     more explicit with your types.
 
 
-4. **What questions do you have?**
+3. **What questions do you have?**
     
     What is Kotlin most commonly used for in the real world? How has its
     compatibility with Java hindered and helped it succeed as a language?
