@@ -21,19 +21,20 @@ word "I".
 ### Kotlin Tour Questions
 1. **What features do you like about Kotlin?** 
 
-    Kotlin is super concise and has some great features line lambda statements. 
-  I especially enjoy that you can feed a function into another function.
-  Writing a .filter {} or .map {} line is are very satisfying.
+    Kotlin is super concise and has some great features like lambda statements,
+  do-while loops, and the Elvis operator. I especially enjoy that you can feed
+  a function into another function. Writing a .filter {} or .map {} line is are
+  very satisfying.
 
 
-2. **Are there things you were expecting to find that you haven’t?**
+3. **Are there things you were expecting to find that you haven’t?**
 
     I was surprised there wasn't a direct translation of the instanceof()
     function from Python, especially since Kotlin requires you to be a lot
     more explicit with your types.
 
 
-3. **What questions do you have?**
+4. **What questions do you have?**
     
     What is Kotlin most commonly used for in the real world? How has its
     compatibility with Java hindered and helped it succeed as a language?
