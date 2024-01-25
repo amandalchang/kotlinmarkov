@@ -14,9 +14,8 @@ word "I".
     do with type inferences, since I was less used to thinking about types in
     Python. One particularly confusing bug came from Kotlin categorizing a
     single character string from .last() as a Char instead, which was not 
-    a distinction I was previously familiar with. However, I think my Kotlin
-    code was more concise than my Python, and it was great being able to put
-    Kotlin's unique features into action.
+    a distinction I was previously familiar with. That being said, it was 
+    great being able to put Kotlin's more unique features into action.
 
 
 ### Kotlin Tour Questions
